@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lógica de Programação - Mergulhe em Programação com JavaScript/Conceitos.md",
+                "file": "Lógica de Programação - Mergulhe em Programação com JavaScript/Apresentação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceitos"
+              "title": "Apresentação"
             }
           }
         ]
@@ -164,11 +164,11 @@
   },
   "active": "81cf3c6496afba73",
   "lastOpenFiles": [
-    "Lógica de Programação - Mergulhe em Programação com JavaScript/Apresentação.md",
     "Lógica de Programação - Mergulhe em Programação com JavaScript/Conceitos.md",
+    "Lógica de Programação - Mergulhe em Programação com JavaScript/Apresentação.md",
     "Lógica de Programação - Mergulhe em Programação com JavaScript/Comandos Java Script.md",
-    "Documentação do Java Script.md",
     "Bem Vindo.md",
+    "Documentação do Java Script.md",
     "Lógica de Programação - Mergulhe em Programação com JavaScript"
   ]
 }
