@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "4b4baac34eb2d0f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0996db5ed678ece0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81cf3c6496afba73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação - Mergulhe em Programação com JavaScript/Conceitos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceitos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa24db41dfbd4178",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed8ade66323120b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1edffb4fdbe8e839",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "3f2a13cdbca58708",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "858940497b60860b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f3179eaf7ef594e",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b5634ff1a94572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "599935f3c13476a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lógica de Programação - Mergulhe em Programação com JavaScript/Conceitos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Conceitos"
+            }
+          },
+          {
+            "id": "700bc9348784b9ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lógica de Programação - Mergulhe em Programação com JavaScript/Conceitos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Conceitos"
+            }
+          },
+          {
+            "id": "312ccbcdf782aec5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "02fa1d86999745dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lógica de Programação - Mergulhe em Programação com JavaScript/Conceitos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Conceitos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "81cf3c6496afba73",
+  "lastOpenFiles": [
+    "Lógica de Programação - Mergulhe em Programação com JavaScript/Apresentação.md",
+    "Lógica de Programação - Mergulhe em Programação com JavaScript/Conceitos.md",
+    "Lógica de Programação - Mergulhe em Programação com JavaScript/Comandos Java Script.md",
+    "Documentação do Java Script.md",
+    "Bem Vindo.md",
+    "Lógica de Programação - Mergulhe em Programação com JavaScript"
+  ]
+}
